@@ -1,6 +1,6 @@
 ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/noctuary/adminer-mysql/latest?style=plastic)    ![Image size](https://img.shields.io/docker/image-size/noctuary/adminer-mysql/latest?style=plastic)    ![Docker Pulls](https://img.shields.io/docker/pulls/noctuary/adminer-mysql?style=plastic)  
 
-Docker Hub: [noctuary/adminer-mysql](https://hub.docker.com/repository/docker/noctuary/phpmyadmin)   
+Docker Hub: [noctuary/adminer-mysql](https://hub.docker.com/repository/docker/noctuary/adminer-mysql)
 
 ## A tiny Adminer for MySQL image
 
